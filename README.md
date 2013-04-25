@@ -9,7 +9,8 @@ WordPress TinyMCE won’t strip iframes in this theme thanks to this little snip
 
 also, this should look fine in IE9, but support for earlier versions is spotty. "spotty" essentially means, the site won't break but the sidebar MAY look a little wonky.
 
-if you want to keep true to the aesthetics of my design remove <div id="tags"> <?php the_tags(); ?></div> from the single.php file so tags don't show and get rid of  
+if you want to keep true to the aesthetics of my design remove <div id="tags"> <?php the_tags(); ?></div> 
+from the single.php file so tags don't show and get rid of  
 
    <div id="avataradjust">
          <?php echo get_avatar($comment,$size='32',$default='<path_to_url>' ); ?>
