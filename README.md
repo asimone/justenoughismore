@@ -1,3 +1,6 @@
+I wrote this to learn how to develop for Wordpress, the whole damn thing from scratch. I do a million things differently know, but so it goes.
+
+
 justenoughismore
 ================
 
