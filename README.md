@@ -19,4 +19,4 @@ from the single.php file so tags don't show and get rid of
 
 in the functions.php to remove avatars. Those are only added so I can put the theme in the official wordpress repository.
 
-If you are curious about the justifications for my design or want to download the alternative, Wordpress unapproved version with the suggested changes above go to: http://andrewsimone.com/justenoughismore/
+If you are curious about the justifications for my design go here: http://andrewsimone.com/justenoughismore/
