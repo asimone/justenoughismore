@@ -1,0 +1,24 @@
+nav ul#posts {
+    color: #444444;
+    margin-left: 51px;
+    margin-top: 5px;
+    width: 145px;
+}
+
+section #widgets ul li {margin-left: 38px;}
+
+section #widgets ul {width: 145px;}
+
+section #widgets {margin-left: 52px; margin-top: -30px;}
+
+nav {margin-top: 116px; font-size: .8em;}
+
+nav #searchform {width: 80px;}
+
+nav .menu {margin-left: 50px;}
+
+nav .cat-item {margin-left: 10px;}
+
+nav .widget-title {margin-left: -2px;}
+
+nav #designed {margin-left: 52px; width: 100px;}
