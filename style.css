@@ -1,0 +1,196 @@
+/*
+THEME NAME: just enough is more - single author
+THEME URI: http://andrewsimone.com/justenoughismore/theme
+DESCRIPTION: 2-column theme with not-crappy typography and reluctantly added comments feature.
+VERSION: 1.0
+AUTHOR: Andrew Ryan Simone
+AUTHOR URI: http://andrewsimone.com
+TAGS: fixed-width, two-columns, white, left-sidebar
+License: GNU General Public License, v3 (or newer)
+License URI: http://www.opensource.org/licenses/gpl-3.0.html
+*/
+
+html {
+    overflow-y: scroll;
+    margin: 28px;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+    display:block;
+}
+
+.alignright {float: right;}
+
+.alignleft {float: left;}
+
+.aligncenter {text-align: center;}
+
+img.aligncenter {   
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+dd {font-size: small;}
+
+a {text-decoration: none; color: #7F7F7F}
+
+
+ol {list-style-type: lower-greek; margin-left: 20px;}
+
+
+p.wp-caption-text {
+    font-size: 0.8em;
+    font-style: italic;
+    margin-top: -15px;
+}
+
+
+section {
+    margin: 0 auto;
+    width: 1000px;
+    font-family: Georgia;
+    margin-top: 15px;
+}
+
+article {
+    color: #444444;
+    font-size: 1.4em;
+    line-height: 1.8em;
+    width: 660px;
+    float: left;
+    margin-left: 15px;
+    font-family: Georgia;
+}
+
+article section {width: 660px;}
+
+article a:hover {text-decoration: underline; color: #7F7F7F}
+
+article h2 {
+    color: #7F7F7F;
+    margin-bottom: 25px;
+    margin-top: 28px;
+}
+
+article h3 {margin-top: 28px; color: #7F7F7F; font-size: 1.4em;}
+
+article h4 {
+    color: #7F7F7F;
+    margin-top: 95px;
+    margin-bottom: 5px;
+    font-size: 1.4em;
+}
+
+article ol.commentlist {margin-left: -40px;}
+
+
+nav {
+    float: left;
+    margin-top: 90px;
+    width: 205px;
+}
+
+nav ul { list-style-type: none;}
+
+nav li {margin-bottom: 15px;}
+
+nav ul li.menu-item, li.page_item, li.cat-item {
+border-bottom: 1px dotted #444;
+margin: 2px;
+width: 80px;
+}
+
+nav .menu-something-container {
+    margin-bottom: 25px;
+}
+
+nav ul#posts {
+    color: #444444;
+    margin-left: 3px;
+    margin-top: 25px;
+    width: 145px;
+}
+
+#haxxors {
+    color: #444444;
+    margin-left: 3px;
+    margin-top: 25px;
+    width: 145px;}
+
+nav ul #haxxors a:hover, #posts a:hover {text-decoration: underline}
+
+nav #widgets {
+    list-style: none outside none;
+    margin-left: 43px;
+    margin-top: 15px;
+    width: 145px;
+}
+
+nav #widgets ul {
+margin-left: -40px;
+width: 145px;
+}
+
+nav #widgets .widget-title {
+   color: #444;
+   font-size: 1em;
+   font-weight: 400;
+   width: 145px;
+}
+
+nav #widgets .widgettitle {
+   color: #444;
+   font-size: 1em;
+   font-weight: 400;
+   width: 145px;
+   margin-top: 15px;
+}
+
+#widgets section {width: 145px;}
+
+nav ul.children {margin-left: -35px;}
+
+nav ul.children li {border-bottom: 0px none;}
+
+#arrows {font-size: 1.5em;}
+
+#ieisbad {font-size: .8em; line-height: 28px; margin-bottom: -11px;}
+
+.gallery-caption {margin-left: 0;}
+
+#avataradjust {margin-top: 4px; float: left; margin-right: 5px;}
+
+#respond {margin-left: 30px;}
+
+#tags {
+    font-size: 0.8em;
+    line-height: 24px;
+    width: 640px;
+}
+
+#postnav {padding-bottom: 5px;}
+
+footer {
+clear: both;
+width: 100%;
+}
+
+footer p#tagline {
+text-align: center;
+float: left;
+margin-top: 5px;
+}
+
+footer p#designed {
+text-align: center;
+float: right;
+margin-top: 5px;
+}
+
+#footertext {
+width: 660px;
+border-top: 1px dotted black;
+margin-left: 630px;
+}
