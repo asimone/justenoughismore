@@ -1,5 +1,7 @@
 I wrote this to learn how to develop for Wordpress, the whole damn thing from scratch. I'd do a million things differently now, but so it goes.
+
 Email me with bugs, etc. @ andrewsimone@gmail.com
+
 This is released under the GNU licence.
 
 justenoughismore
