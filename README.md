@@ -25,6 +25,5 @@ from the single.php file so tags don't show and get rid of
 
 in the functions.php to remove avatars. Those are only added so I can put the theme in the official wordpress repository.
 
-If you are curious about the justifications for my design go here: http://andrewsimone.com/justenoughismore/
 
 You'll need this to have an image show up in the admin panel: https://dl.dropboxusercontent.com/u/114101/screenshot.png
