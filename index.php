@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<?php get_sidebar(); ?>
+<?php get_sidebar ('custom'); ?>
   <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 <!--[if IE]>
 <div id="ieisbad">Using Internet Explorer promotes bad coding habits, isn't very secure, and makes web designers cry (plus this site is not optimized for it). Please consider getting a more modern browser like <a href="http://www.firefox.com">Firefox</a> or <a href="http://www.google.com/chrome">Chrome</a>.</div>
